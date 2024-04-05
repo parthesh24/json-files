@@ -16,21 +16,29 @@
       "price": 349.99,
       "category": "smart"
     },
-    // ... Add more electronic gadgets, smart gadgets, and technical books
-  ],
-  "technicalBooks": [
     {
       "id": 3,
-      "title": "Clean Code",
-      "author": "Robert C. Martin",
-      "category": "technical"
+      "name": "Gaming Laptop",
+      "brand": "ASUS",
+      "model": "ROG Strix G15",
+      "price": 1799.00,
+      "category": "electronic"
     },
     {
       "id": 4,
-      "title": "Eloquent JavaScript",
-      "author": "Marijn Haverbeke",
-      "category": "technical"
+      "name": "Chromebook",
+      "brand": "Acer",
+      "model": "Spin 713",
+      "price": 649.00,
+      "category": "electronic"
     },
-    // ... Add more technical books
+    {
+      "id": 5,
+      "name": "Workstation Laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad P1",
+      "price": 2499.00,
+      "category": "electronic"
+    }
   ]
 }
