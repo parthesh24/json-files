@@ -1,0 +1,36 @@
+{
+  "electronicGadgets": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "price": 1299.00,
+      "category": "electronic"
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch",
+      "brand": "Samsung",
+      "model": "Galaxy Watch 5",
+      "price": 349.99,
+      "category": "smart"
+    },
+    // ... Add more electronic gadgets, smart gadgets, and technical books
+  ],
+  "technicalBooks": [
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "technical"
+    },
+    {
+      "id": 4,
+      "title": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "category": "technical"
+    },
+    // ... Add more technical books
+  ]
+}
